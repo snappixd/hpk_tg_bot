@@ -1,0 +1,437 @@
+{
+    "groups": [
+        {
+            "groupName": "КІ-211",
+            "days": [
+              {
+                "dayName": "Monday",
+                "paras": [
+                  {
+                    "parasNum": "1-2",
+                    "subject": "-",
+                    "teacher": "-",
+                    "classroom": "-"
+                  },
+                  {
+                    "parasNum": "3-4",
+                    "subject": "Надійність, діагностика",
+                    "teacher": "Гетьман",
+                    "classroom": "141а"
+                  },
+                  {
+                    "parasNum": "5-6",
+                    "subject": "Філософія",
+                    "teacher": "Багас",
+                    "classroom": "123"
+                  },
+                  {
+                    "parasNum": "7-8",
+                    "subject": "Системне програмування",
+                    "teacher": "Задніпровський",
+                    "classroom": "232"
+                  }
+                ]
+              },
+              {
+                "dayName": "Tuesday",
+                "paras": [
+                  {
+                    "parasNum": "1-2",
+                    "subject": "Філософія",
+                    "teacher": "Багас",
+                    "classroom": "111"
+                  },
+                  {
+                    "parasNum": "3-4",
+                    "subject": "Ліцензування і сертифікація",
+                    "teacher": "Качеровська",
+                    "classroom": "134"
+                  },
+                  {
+                    "parasNum": "5-6",
+                    "subject": "Фізра",
+                    "teacher": "Фізрук",
+                    "classroom": "-"
+                  },
+                  {
+                    "parasNum": "7-8",
+                    "subject": "Комп. системи і мережі",
+                    "teacher": "Петровський",
+                    "classroom": "141а"
+                  }
+                ]
+              },
+              {
+                "dayName": "Wednesday",
+                "paras": [
+                  {
+                    "parasNum": "1-2",
+                    "subject": "-",
+                    "teacher": "-",
+                    "classroom": "-"
+                  },
+                  {
+                    "parasNum": "3-4",
+                    "subject": "Периферійні пристрої",
+                    "teacher": "Гетьман",
+                    "classroom": "141а"
+                  },
+                  {
+                    "parasNum": "5-6",
+                    "subject": "Надійність, діагностика",
+                    "teacher": "Гетьман",
+                    "classroom": "141а"
+                  }
+                ]
+              },
+              {
+                "dayName": "Thursday",
+                "paras": [
+                  {
+                    "parasNum": "1-2",
+                    "subject": "-",
+                    "teacher": "-",
+                    "classroom": "-"
+                  },
+                  {
+                    "parasNum": "3-4",
+                    "subject": "Комп. системи і мережі",
+                    "teacher": "Петровський",
+                    "classroom": "141а"
+                  },
+                  {
+                    "parasNum": "5-6",
+                    "subject": "Фізра",
+                    "teacher": "Фізрук",
+                    "classroom": "-"
+                  },
+                  {
+                    "parasNum": "7-8",
+                    "subject": "Комп. системи і мережі",
+                    "teacher": "Петровський",
+                    "classroom": "141а"
+                  }
+                ]
+              },
+              {
+                "dayName": "Friday",
+                "paras": [
+                  {
+                    "parasNum": "1-2",
+                    "subject": "Ліцензування і сертифікація",
+                    "teacher": "Качеровська",
+                    "classroom": "134"
+                  },
+                  {
+                    "parasNum": "3-4",
+                    "subject": "Англ мова",
+                    "teacher": "Ковалець / Даць",
+                    "classroom": "135/148"
+                  },
+                  {
+                    "parasNum": "5-6",
+                    "subject": "Системне програмування",
+                    "teacher": "Задніпровський",
+                    "classroom": "232"
+                  },
+                  {
+                    "parasNum": "7-8",
+                    "subject": "-",
+                    "teacher": "-",
+                    "classroom": "-"
+                  }
+                ]
+              }
+            ]
+          },
+      {
+        "groupName": "КІ-212",
+        "days": [
+          {
+            "dayName": "Monday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Надійність, діагностика",
+                "teacher": "Гетьман",
+                "classroom": "141а"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Ліцензування і сертифікація",
+                "teacher": "Качеровська",
+                "classroom": "134"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "Системне програмування",
+                "teacher": "Задніпровський",
+                "classroom": "232"
+              }
+            ]
+          },
+          {
+            "dayName": "Tuesday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "Філософія",
+                "teacher": "Багас",
+                "classroom": "111"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Комп. системи і мережі",
+                "teacher": "Петровський",
+                "classroom": "221"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Фізра",
+                "teacher": "Фізрук",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "Комп. системи і мережі",
+                "teacher": "Петровський",
+                "classroom": "141а"
+              }
+            ]
+          },
+          {
+            "dayName": "Wednesday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "Надійність, діагностика",
+                "teacher": "Гетьман",
+                "classroom": "141а"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Периферійні пристрої",
+                "teacher": "Гетьман",
+                "classroom": "141а"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Ліцензування і сертифікація",
+                "teacher": "Качеровська",
+                "classroom": "134"
+              }
+            ]
+          },
+          {
+            "dayName": "Thursday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Філософія",
+                "teacher": "Багас",
+                "classroom": "131а"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Фізра",
+                "teacher": "Фізрук",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "Комп. системи і мережі",
+                "teacher": "Петровський",
+                "classroom": "141а"
+              }
+            ]
+          },
+          {
+            "dayName": "Friday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "Англ мова",
+                "teacher": "Ковалець",
+                "classroom": "135"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Системне програмування",
+                "teacher": "Задніпровський",
+                "classroom": "232"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "groupName": "КІ-213",
+        "days": [
+          {
+            "dayName": "Monday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Надійність, діагностика",
+                "teacher": "Гетьман",
+                "classroom": "141а"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Фізра",
+                "teacher": "Старцун",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "Системне програмування",
+                "teacher": "Задніпровський",
+                "classroom": "232"
+              }
+            ]
+          },
+          {
+            "dayName": "Tuesday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "Філософія",
+                "teacher": "Багас",
+                "classroom": "111"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Надійність, діагностика",
+                "teacher": "Гетьман",
+                "classroom": "141а"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Комп. системи і мережі",
+                "teacher": "Петровський",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "Фізра",
+                "teacher": "Старцун",
+                "classroom": "-"
+              }
+            ]
+          },
+          {
+            "dayName": "Wednesday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Периферійні пристрої",
+                "teacher": "Гетьман",
+                "classroom": "141а"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Філософія",
+                "teacher": "Багас",
+                "classroom": "131а"
+              }
+            ]
+          },
+          {
+            "dayName": "Thursday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Ліцензування і сертифікація",
+                "teacher": "Качеровська",
+                "classroom": "134"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Комп. системи і мережі",
+                "teacher": "Петровський",
+                "classroom": "-"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "Комп. системи і мережі",
+                "teacher": "Петровський",
+                "classroom": "141а"
+              }
+            ]
+          },
+          {
+            "dayName": "Friday",
+            "paras": [
+              {
+                "parasNum": "1-2",
+                "subject": "Системне програмування",
+                "teacher": "Задніпровський",
+                "classroom": "232"
+              },
+              {
+                "parasNum": "3-4",
+                "subject": "Ліцензування і сертифікація",
+                "teacher": "Качеровська",
+                "classroom": "134"
+              },
+              {
+                "parasNum": "5-6",
+                "subject": "Англ мова",
+                "teacher": "Ковалець / Даць" ,
+                "classroom": "135/148"
+              },
+              {
+                "parasNum": "7-8",
+                "subject": "-",
+                "teacher": "-",
+                "classroom": "-"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
